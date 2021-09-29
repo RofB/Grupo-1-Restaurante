@@ -1,4 +1,4 @@
-# Mision-Tic-Sprint-1-Ciclo-3
+# Mision-Tic-Sprint-2-Ciclo-3
 Diseñar preliminarmente la aplicación a construir.
 
 # **Actividades:**
