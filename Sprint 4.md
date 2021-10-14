@@ -1,4 +1,4 @@
-# Mision-Tic-Sprint-3-Ciclo-3
+# Mision-Tic-Sprint-4-Ciclo-3
 Desarrollar el componente correspondiente a la capa lógica (parte 2) de la aplicación.
 
 # **Actividades:**
